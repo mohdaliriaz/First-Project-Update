@@ -1,0 +1,24 @@
+There are situations where an application is not working in one browser but works
+fine in another browser.This is an example of an application which has not been 
+tested for browser compatibility. As the name suggests Cross Browser Testing means
+to test the website or application on mulitple browsers.
+It can be done on a web or mobile application.
+Needs of Cross Browser Testing: 1. Any customer facing application needs to be 
+tested across the browser as mentioned by client in his requirements.
+
+2. To know the browser specific issues and be able to fix.
+
+3. To enhance quality and user experience and thereby, business.
+
+4. Browsers in which application needs to be tested is not decided by the tester
+but by the client.
+
+  Browser coompatibility testing is necessary to enhance the usability and quality
+of an application.
+ This testing should be done when the entire system testing and
+integration is done.
+  Browser in which application needs to be tested are decided by the clients on
+the basis of customer traffic on a browser.
+
+LambdaTest is a good option. Lamda Test is a cloud based platform that helps you
+ perform cross browser compatibility testing of your web app or websites.
